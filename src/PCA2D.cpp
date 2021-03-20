@@ -2,7 +2,7 @@
 // Created by Francois Gauthier-Clerc on 02/08/19.
 //
 
-#include "../include/PCA2D.h"
+#include <norm_2d/PCA2D.h>
 
 
 void PCA2D::initCompute() {

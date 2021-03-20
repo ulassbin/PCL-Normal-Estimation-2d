@@ -2,7 +2,7 @@
 // Created by Francois Gauthier-Clerc on 02/08/19.
 //
 
-#include "../include/Normal2dEstimation.h"
+#include <norm_2d/Normal2dEstimation.h>
 
 
 void Normal2dEstimation::setInputCloud(const ConstPtrCloud& cloud) {
