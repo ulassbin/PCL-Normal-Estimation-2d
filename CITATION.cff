@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Gauthier-Clerc"
+  given-names: "François"
+- family-names: "Bingöl"
+  given-names: "Ulaş Süreyya Bingöl"
+title: "PCL-Normal-Estimation-2d"
+version: 1.0.0
+date-released: 2022-01-05
+url: "https://github.com/ulassbin/PCL-Normal-Estimation-2d"
